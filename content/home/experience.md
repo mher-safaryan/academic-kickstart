@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "KSA"
   date_start = "2016-11-13"
   date_end = ""
-  description = """ Computer Algebra for Differential Equations: Automation of symbolic PDE analysis with Wolfram Mathematica """
+  description = """ Computer Algebra for Differential Equations: Automation of symbolic PDE analysis with Wolfram Mathematica."""
   # """
   # Responsibilities include:
   
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Junior Researcher"
-  company = "Institute of Mathematics of National Academy of Sciences"
+  company = "Institute of Mathematics of National Academy of Sciences: Real Analysis Department"
   company_url = "http://math.sci.am/"
   location = "Armenia"
   date_start = "2014-08-14"

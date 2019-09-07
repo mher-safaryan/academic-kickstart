@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include X, Y and Z.
 
 interests:
-- Stochastic Optimisation
+- Stochastic optimization
 - Machine Learning
-- Statistical Learning
+- Computer algebra
+- Harmonic Analysis
 
 education:
   courses:
@@ -70,6 +71,7 @@ email: ""
 # - Visitors
 ---
 
-Short bio
+I am a Research Technician at [KAUST](https://cemse.kaust.edu.sa) working with [Prof. Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes) on Computer Algebra for Differential Equations. In particular, on automation of symbolic PDE analysis with Wolfram Mathematica.
+I am also collaborating with [Prof. Peter Richtárik](https://richtarik.org) on Big Data Optimization in Machine Learning. I did my PhD in Mathematics at [Yerevan State University, Armenia](http://ysu.am/main/en) under the supervision of [Prof Grigori Karagulyan](http://math.sci.am/user/grigori-karagulyan).
 
-Extra notes
+# Extra notes

@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Technician"
+  company = "KAUST, CEMSE"
+  company_url = "https://cemse.kaust.edu.sa/"
+  location = "KSA"
+  date_start = "2016-11-13"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """ Computer Algebra for Differential Equations: Automation of symbolic PDE analysis with Wolfram Mathematica """
+  # """
+  # Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  # * Analysing
+  # * Modelling
+  # * Deploying
+  # """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Junior Researcher"
+  company = "Institute of Mathematics of National Academy of Sciences"
+  company_url = "http://math.sci.am/"
+  location = "Armenia"
+  date_start = "2014-08-14"
+  date_end = "2019-06-30"
+  description = """Harmonic Analysis: Real-variable Methods, Orthogonality, and Oscillatory Integrals."""
+
+
+[[experience]]
+  title = "Search Engine Developer"
+  company = "Teamable Software"
+  company_url = "https://www.teamable.com/"
+  location = "Armenia"
+  date_start = "2014-04-23"
+  date_end = "2016-11-10"
+  description = """Working extensively on data quality and all aspects of search engine in the product. Building intelligent, advanced and scalable search engine with Apache Solr."""
 
 +++

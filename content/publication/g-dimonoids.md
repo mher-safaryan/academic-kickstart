@@ -1,8 +1,8 @@
-# ---
-# title: "G Dimonoids"
-# date: 2019-09-07T15:21:47+03:00
-# draft: true
-# ---
+---
+title: "G Dimonoids"
+date: 2019-09-07T15:21:47+03:00
+draft: true
+---
 
 +++
 abstract = "In this paper, the concept of a g-dimonoid is introduced and the construction of a free g-dimonoid is described. (A g-dimonoid is a duplex satisfying two additional identities.)"

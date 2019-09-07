@@ -67,7 +67,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mher.safaryan@gmail.com"
+email = "mailto:mher.safaryan.1@kaust.edu.sa"
 # phone = "888 888 88 88"
 address = "4101-WS01, Building 1, KAUST, Thuwal, KSA"
 
@@ -104,8 +104,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 0
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = ""
+longitude = ""
 zoom = 15
 
 ############################

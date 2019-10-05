@@ -71,7 +71,7 @@ email: ""
 # - Visitors
 ---
 
-I am a postdoctoral fellow at [KAUST](https://cemse.kaust.edu.sa) on Optimization for Machine Learning in the group supervised by [Prof. Peter Richtárik](https://richtarik.org). Previously, I worked with [Prof. Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes) on Computer Algebra for Differential Equations.
+I am a postdoctoral fellow at [KAUST](https://cemse.kaust.edu.sa), working on Optimization for Machine Learning in the group supervised by [Prof. Peter Richtárik](https://richtarik.org). Previously, I worked with [Prof. Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes) on Computer Algebra for Differential Equations.
 
 I did my PhD in Mathematics at [Yerevan State University, Armenia](http://ysu.am/main/en) under the supervision of [Prof. Grigori Karagulyan](http://math.sci.am/user/grigori-karagulyan).
 

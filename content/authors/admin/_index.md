@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mathemaitics
+  - course: PhD in Mathematics
     institution: Yerevan State University
     year: 2018
-  - course: MSc in Mathemaitics
+  - course: MSc in Mathematics
     institution: Yerevan State University
     year: 2015
-  - course: BSc in Mathemaitics
+  - course: BSc in Mathematics
     institution: Yerevan State University
     year: 2013
 
@@ -70,6 +70,23 @@ email: ""
 # - Researchers
 # - Visitors
 ---
+I am a postdoctoral fellow at [KAUST](https://cemse.kaust.edu.sa) in the group supervised by
+[Prof. Peter Richtárik](https://richtarik.org).
 
-I am a Research Technician at [KAUST](https://cemse.kaust.edu.sa) working with [Prof. Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes) on Computer Algebra for Differential Equations. In particular, on automation of symbolic PDE analysis with Wolfram Mathematica.
-I am also collaborating with [Prof. Peter Richtárik](https://richtarik.org) on Big Data Optimization in Machine Learning. I did my PhD in Mathematics at [Yerevan State University, Armenia](http://ysu.am/main/en) under the supervision of [Prof Grigori Karagulyan](http://math.sci.am/user/grigori-karagulyan).
+Previously I worked with [Prof. Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes)
+on Computer Algebra for Differential Equations.
+# In particular, on automation of symbolic PDE analysis with Wolfram Mathematica.
+# I am also collaborating with [Prof. Peter Richtárik](https://richtarik.org) on Big Data Optimization in Machine Learning.
+
+I did my PhD in Mathematics at [Yerevan State University, Armenia](http://ysu.am/main/en)
+under the supervision of [Prof Grigori Karagulyan](http://math.sci.am/user/grigori-karagulyan).
+
+
+
+
+
+
+
+
+
+

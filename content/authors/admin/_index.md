@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Technician
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
@@ -70,18 +70,10 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-I am a postdoctoral fellow at [KAUST](https://cemse.kaust.edu.sa) in the group supervised by
-[Prof. Peter Richtárik](https://richtarik.org).
 
-Previously I worked with [Prof. Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes)
-on Computer Algebra for Differential Equations.
-# In particular, on automation of symbolic PDE analysis with Wolfram Mathematica.
-# I am also collaborating with [Prof. Peter Richtárik](https://richtarik.org) on Big Data Optimization in Machine Learning.
+I am a postdoctoral fellow at [KAUST](https://cemse.kaust.edu.sa) on Optimization for Machine Learning in the group supervised by [Prof. Peter Richtárik](https://richtarik.org). Previously, I worked with [Prof. Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes) on Computer Algebra for Differential Equations.
 
-I did my PhD in Mathematics at [Yerevan State University, Armenia](http://ysu.am/main/en)
-under the supervision of [Prof Grigori Karagulyan](http://math.sci.am/user/grigori-karagulyan).
-
-
+I did my PhD in Mathematics at [Yerevan State University, Armenia](http://ysu.am/main/en) under the supervision of [Prof. Grigori Karagulyan](http://math.sci.am/user/grigori-karagulyan).
 
 
 

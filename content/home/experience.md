@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://cemse.kaust.edu.sa/"
   location = "KAUST, KSA"
   date_start = "2016-11-13"
-  date_end = "2019-10-05"
+  date_end = "2019-9-30"
   description = """ Computer Algebra for Differential Equations: Automation of symbolic PDE analysis with Wolfram Mathematica."""
   # """
   # Responsibilities include:

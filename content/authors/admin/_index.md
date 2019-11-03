@@ -21,9 +21,8 @@ organizations:
 bio: My research interests include X, Y and Z.
 
 interests:
-- Stochastic optimization
+- Optimization
 - Machine Learning
-- Computer algebra
 - Harmonic Analysis
 
 education:

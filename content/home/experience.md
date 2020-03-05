@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Postdoctoral fellow"
-  company = "KAUST"
+  company = "KAUST, CEMSE Division, Visual Computing Center"
   company_url = "https://cemse.kaust.edu.sa/"
   location = "KAUST, KSA"
   date_start = "2019-10-05"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Technician"
-  company = "KAUST, CEMSE"
+  company = "KAUST, CEMSE Division, SRI - Center for Uncertainty Quantification in Computational Science and Engineering"
   company_url = "https://cemse.kaust.edu.sa/"
   location = "KAUST, KSA"
   date_start = "2016-11-13"
@@ -59,6 +59,6 @@ date_format = "Jan 2006"
   location = "Yerevan, Armenia"
   date_start = "2014-04-23"
   date_end = "2016-11-10"
-  description = """Working extensively on data quality and all aspects of search engine in the product. Building intelligent, advanced and scalable search engine with Apache Solr."""
+  # description = """Working extensively on data quality and all aspects of search engine in the product. Building intelligent, advanced and scalable search engine with Apache Solr."""
 
 +++

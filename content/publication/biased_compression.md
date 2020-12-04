@@ -5,5 +5,15 @@ abstract: "In the last few years, various communication  compression techniques 
 authors: ["Aleksandr Beznosikov", "Samuel Horváth", "Peter Richtárik", "Mher Safaryan"]
 math: true
 publication: "preprint"
-url_pdf: "https://arxiv.org/abs/2002.12410"
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2002.12410
+- name: Poster
+  url: files/poster_on_Biased_Compression.png
+- name: Slides
+  url: https://drive.google.com/file/d/1P32f4n-RupsfIEUT-fLciKHzorQWMslf/view
+- name: "FLOW Video"
+  url: https://www.youtube.com/watch?v=wkfuIbfdh5s&feature=emb_logo&ab_channel=FederatedLearningOneWorldSeminar
+- name: "NeurIPS SpicyFL Workshop 2020"
+  url: https://neurips.cc/virtual/2020/public/workshop_16123.html
 ---

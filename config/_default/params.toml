@@ -69,7 +69,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mher.safaryan.1@kaust.edu.sa"
 # phone = "888 888 88 88"
-address = "2101-WS02, Building 1, KAUST, Thuwal, KSA"
+address = "2101-WS02, Al Khawarizmi Building, KAUST, Thuwal, KSA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

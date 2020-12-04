@@ -5,5 +5,11 @@ abstract: "Various gradient compression schemes have been proposed to mitigate t
 authors: ["Mher Safaryan", "Peter Richtárik"]
 math: true
 publication: "preprint"
-url_pdf: "https://arxiv.org/pdf/1905.12938.pdf"
+links:
+- name: arXiv
+  url: https://arxiv.org/pdf/1905.12938
+- name: Poster
+  url: files/poster_signsgd.png
+- name: "NeurIPS OPTML Workshop 2020"
+  url: https://opt-ml.org/papers.html
 ---

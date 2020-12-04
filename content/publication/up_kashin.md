@@ -5,5 +5,7 @@ abstract: "In order to mitigate the high communication cost in distributed and f
 authors: ["Mher Safaryan", "Egor Shulgin", "Peter Richtárik"]
 math: true
 publication: "preprint"
-url_pdf: "https://arxiv.org/abs/2002.08958"
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2002.08958
 ---

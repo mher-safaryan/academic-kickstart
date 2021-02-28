@@ -4,7 +4,10 @@ date: "2014-11-5"
 abstract: ""
 authors: ["Grigori Karagulyan", "Mher Safaryan"]
 math: true
-publication: "The publishing part of the citation goes here. You may use *Markdown* for italics etc."
-url_pdf: "https://www.researchgate.net/publication/258144798_On_Generalizations_of_Fatou%27s_Theorem_for_the_Integrals_with_General_Kernels"
+links:
+- name: "arXiv"
+  url: https://arxiv.org/abs/1310.8061
+- name: "The Journal of Geometric Analysis (2015)"
+  url: https://link.springer.com/article/10.1007/s12220-014-9479-0
 ---
 

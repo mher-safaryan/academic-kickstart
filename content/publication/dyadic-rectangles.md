@@ -5,5 +5,9 @@ abstract: "The paper considers differentiation properties of rare bases of dyadi
 authors: ["Grigori Karagulyan", "Davit Karagulyan", "Mher Safaryan"]
 math: true
 publication: "Colloquium Mathematicum"
-url_pdf: "https://www.researchgate.net/publication/311358434_On_an_equivalence_for_differentiation_bases_of_dyadic_rectangles"
+links:
+- name: "ResearchGate"
+  url: https://www.researchgate.net/publication/311358434_On_an_equivalence_for_differentiation_bases_of_dyadic_rectangles
+- name: "Colloquium Mathematicum (2017)"
+  url: https://www.impan.pl/en/publishing-house/journals-and-series/colloquium-mathematicum/online/91924/on-an-equivalence-for-differentiation-bases-of-dyadic-rectangles
 ---

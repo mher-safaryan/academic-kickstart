@@ -9,7 +9,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2002.12410
 - name: Poster
-  url: files/poster_on_Biased_Compression.png
+  url: files/poster_on_Biased_Compression.pdf
 - name: Slides
   url: https://drive.google.com/file/d/1P32f4n-RupsfIEUT-fLciKHzorQWMslf/view
 - name: "FLOW Video"

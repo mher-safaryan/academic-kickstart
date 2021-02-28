@@ -8,4 +8,6 @@ publication: "preprint"
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2002.08958
+- name: "Information and Inference: A Journal of IMA (2021)"
+  url: 10.1093/imaiai/iaab006
 ---
